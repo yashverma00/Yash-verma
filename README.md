@@ -1,4 +1,3 @@
-![logo](https://github.com/yashverma00/Yash-verma/blob/main/github%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm YASH VERMA</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
